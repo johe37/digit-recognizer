@@ -1,0 +1,5 @@
+mnist/output
+mnist/mnist_train.csv
+mnist/mnist_test.csv
+mnist/__MACOSX
+
